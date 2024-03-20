@@ -1,3 +1,7 @@
+// Andrew Robbins
+// CS 145
+// 3/10/24
+// Lab 6
 import java.util.*;
 
 // This class represents a binary search tree, and has functionality for storing and 
