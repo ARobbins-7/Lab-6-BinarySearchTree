@@ -1,3 +1,7 @@
+// Andrew Robbins
+// CS 145
+// 3/10/24
+// Lab 6
 import java.util.Scanner;
 
 // This class represents a node in a binary search tree.
